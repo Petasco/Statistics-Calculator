@@ -3,7 +3,8 @@ from tkinter import *
 import statistics
 from tkinter import messagebox
 import os
-#os.system("pip install scipy")
+os.system("pip install scipy")
+os. system("pip install numpy")
 import numpy 
 import numpy as np
 import scipy.stats
