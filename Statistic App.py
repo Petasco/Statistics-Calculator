@@ -12,7 +12,7 @@ from scipy.stats import kurtosis
 from scipy.stats import skew
 
 window =Tk()
-window.title("GROUP 5 200L")
+window.title("Petasco Statistics Calculator App")
 window.geometry('1200x820+250+50')
 window.configure(bg='gold')
 
