@@ -18,8 +18,8 @@ window.configure(bg='gold')
 
 
 # ------------------------------------- Labels -------------------------------------------------------------------
-lbl1 = Label(window, text="===== ==========> GROUP 5 200L <==============", font=('algeria',30, 'bold'),bg='gold', fg="blue", padx=10, pady=25)
-lbl1.place(y=1, x=100)
+#lbl1 = Label(window, text="===== ==========> GROUP 5 200L <==============", font=('algeria',30, 'bold'),bg='gold', fg="blue", padx=10, pady=25)
+#lbl1.place(y=1, x=100)
 lbl2 = Label(window, text="============>[ PRESENTATION ]<===========", font=('blue',20, 'bold'),bg='gold' ,fg="red")
 lbl2.place(y=70, x=300)
 lbl3 = Label(window, text="=============>[ ON ]<===========", font=('blue',20, 'bold'),bg='gold' ,fg="red")
